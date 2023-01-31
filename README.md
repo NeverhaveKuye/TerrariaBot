@@ -1,25 +1,7 @@
 # TerrariaBot
 基于 mirai 的 Terraria TShock QQ 机器人
-<p align="center">
-    <img src="logo.jpg" width="200px" height="200px">
-</p>
-
-<div align="center">
-
-# Bread Dog Bot
-
-_✨基于 [Nonebot2](https://github.com/nonebot/nonebot2) 和 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 的 Terraria TShock QQ 机器人✨_
-
-![Python](https://img.shields.io/badge/python-3.8.6%2B-blue)
-![Nonebot2](https://img.shields.io/badge/nonebot-2.0.0-yellow)
-![Go-cqhttp](https://img.shields.io/badge/go--cqhttp-1.0.0-red)
-<br/>    
-![GitHub](https://img.shields.io/github/license/Qianyiovo/bread_dog_bot)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Qianyiovo/bread_dog_bot?include_prereleases)
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Qianyiovo/bread_dog_bot)
 
 
-</div>
 
 ## 声明
 
@@ -82,34 +64,16 @@ _✨基于 [Nonebot2](https://github.com/nonebot/nonebot2) 和 [go-cqhttp](https
 + 删除云黑
 </details>
 
-<details>
-<summary>邮箱功能</summary>
-
-
-+ 玩家邮箱
-+ 添加邮件
-+ 删除邮件
-+ 发送邮件
-+ 领取邮件
-+ 回收邮件
-</details>
 
 <details>
 <summary>抽奖功能</summary>
 
 
-+ 随机抽奖
++ 抽奖
 + 奖池列表
-+ 奖池
-+ 添加奖池
-+ 删除奖池
-+ 添加奖池物品
-+ 删除奖池物品
-+ 奖池抽奖
 </details>
 
-<details>
-<summary>排行榜功能</summary>
+
 
 
 + coming soon...
