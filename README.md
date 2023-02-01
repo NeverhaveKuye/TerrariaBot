@@ -1,12 +1,13 @@
 # TerrariaBot
 基于 mirai 的 Terraria TShock QQ 机器人
 
-
+***
 
 ## 声明
 
 **本项目仅用于学习，请勿用于非法用途**
 
+***
 
 ## 功能
 
@@ -47,18 +48,40 @@
 
 <details>
 <summary>云黑功能</summary>
-  
+
 + 云黑检测
 </details>
 
 
 <details>
 <summary>抽奖功能</summary>
-  
+
 + 抽奖
 + 奖池列表
 </details>
 
+***
 
+# 鸣谢
 
++ Lucky He
++ 奇威复反
 
+***
+
+# 开始使用
++ ## 安装[Mcl](https://github.com/iTXTech/mirai-console-loader)
+
++ 解压打开
+
++ 启动mcl.cmd
+
++ 将下载好的 TerrariaRobot-1.0.jar 放进 plugins 内
+
++ 成功运行后自行配置登录信息等
+
++ 插件配置文件自动生成于目录 data\com.example.TerrariaRobot
+
+# 仓库地址
+
++ [GOGS](http://49.232.13.47:3000/ice/TerrariaRobot/src/master)
