@@ -1,5 +1,5 @@
 # TerrariaBot
-基于 mirai 的 Terraria TShock QQ 机器人   
+基于 mirai 的 Terraria TShock QQ 机器人
 
 ***
 
@@ -81,6 +81,15 @@
 + 成功运行后自行配置登录信息等
 
 + 插件配置文件自动生成于目录 data\com.example.TerrariaRobot
+
+***
+
+
+# 前置插件
++ 下载后放入服务端即可[链接](https://github.com/NeverhaveKuye/TerrariaBot/blob/main/TerrariaRobot%E9%80%82%E9%85%8D%E6%8F%92%E4%BB%B6.dll)
+
+***
+
 
 # 仓库地址
 
